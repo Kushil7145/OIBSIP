@@ -31,6 +31,11 @@ To run the Stopwatch Android App on your device, follow these steps:
 ![Screenshot 2](screenshots/screenshot2.png)
 ![Screenshot 3](screenshots/screenshot3.png)
 
+## Technologies Used
+
+- Programming Language: Java
+- Android SDK
+
 ## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. Your contributions are greatly appreciated!
